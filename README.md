@@ -1,5 +1,12 @@
-# webosu! 3.2 :heart_eyes:
-Feel free to drop by the [Discord server](https://discord.gg/v7wBtSdYzx)<br>
+# Brosu Testing Phase
+
+## To-Do
+- [ ] Translate this
+- [ ] Change Frontend, modernize it
+- [ ] Add Custom Skin Support
+- [ ] Add Icon Bar
+- [ ] Make our own scoring and login system with Firebase
+- [ ] Add more beatmap mirrors
 
 ## Info
 Beatmap API: [Mino](https://catboy.best)<br>
